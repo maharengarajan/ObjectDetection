@@ -1,8 +1,15 @@
 # ObjectDetection Project
 
-```conda create -p sign python=3.7 -y```
-
-```conda activate sign```
-
-```pip install -r requirements.txt```
+1. Create virtual environment
+```
+conda create -p sign python=3.7 -y
+```
+2. Activate the virtual environment
+```
+conda activate sign
+```
+3. Install required packages
+```
+pip install -r requirements.txt
+```
 
