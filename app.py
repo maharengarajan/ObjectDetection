@@ -1,12 +1,4 @@
-from SignLanguage.logger import logging
-from SignLanguage.exception import SignException
-import sys
+from SignLanguage.pipeline.training_pipeline import TrainPipeline
 
-
-# logging.info("Welcome to the Project")
-
-try: 
-    a = 7 / '9'
-
-except Exception as e:
-    raise SignException(e, sys)
+obj = TrainPipeline()
+obj.run_pipeline()

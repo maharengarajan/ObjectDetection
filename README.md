@@ -13,3 +13,10 @@ conda activate sign
 pip install -r requirements.txt
 ```
 
+# Workflows
+- Constant
+- Config_entity
+- artifacts_entity
+- components
+- pipeline
+- app.py
