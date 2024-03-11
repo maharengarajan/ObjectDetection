@@ -162,4 +162,3 @@ cython_debug/
 
 CollectedImages/*
 artifacts/*
-img_data.zip
