@@ -12,6 +12,10 @@ conda activate sign
 ```
 pip install -r requirements.txt
 ```
+4. run the project - use bash terminal
+```
+python app.py
+```
 
 # Workflows
 - Constant
